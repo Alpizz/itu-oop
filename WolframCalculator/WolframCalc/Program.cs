@@ -24,6 +24,13 @@ namespace WolframCalc
             // Get query input from user
             var inputQuery = Console.ReadLine();
             
+            // Check for empty queries
+            if (string.IsNullOrWhiteSpace(inputQuery))
+            {
+                Console.WriteLine("Empty query.");
+                throw new System.ArgumentException("Parameter cannot be null", "inputQuery");
+            }
+            
             // Convert output to decimal by appending "decimal" keyword to the query
             if (inputQuery.Contains("/"))
             {
