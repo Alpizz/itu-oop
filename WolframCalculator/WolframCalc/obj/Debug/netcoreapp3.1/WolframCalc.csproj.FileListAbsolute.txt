@@ -1,0 +1,17 @@
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\bin\Debug\netcoreapp3.1\WolframCalc.exe
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\bin\Debug\netcoreapp3.1\WolframCalc.deps.json
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\bin\Debug\netcoreapp3.1\WolframCalc.runtimeconfig.json
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\bin\Debug\netcoreapp3.1\WolframCalc.runtimeconfig.dev.json
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\bin\Debug\netcoreapp3.1\WolframCalc.dll
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\bin\Debug\netcoreapp3.1\WolframCalc.pdb
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\bin\Debug\netcoreapp3.1\Genbox.WolframAlpha.dll
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\obj\Debug\netcoreapp3.1\WolframCalc.csprojAssemblyReference.cache
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\obj\Debug\netcoreapp3.1\WolframCalc.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\obj\Debug\netcoreapp3.1\WolframCalc.AssemblyInfo.cs
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\obj\Debug\netcoreapp3.1\WolframCalc.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\obj\Debug\netcoreapp3.1\WolframCalc.csproj.CopyComplete
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\obj\Debug\netcoreapp3.1\WolframCalc.dll
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\obj\Debug\netcoreapp3.1\WolframCalc.pdb
+C:\Users\alper\Desktop\alpiz\itu\blg252e\WolframCalculator\WolframCalc\obj\Debug\netcoreapp3.1\WolframCalc.genruntimeconfig.cache

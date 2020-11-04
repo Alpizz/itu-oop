@@ -1,0 +1,145 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Genbox.WolframAlpha/3.0.0-alpha3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.5",
+          "Microsoft.Extensions.ObjectPool": "3.1.5"
+        },
+        "compile": {
+          "lib/netstandard2.0/Genbox.WolframAlpha.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Genbox.WolframAlpha.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/3.1.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
+        }
+      },
+      "Microsoft.Extensions.ObjectPool/3.1.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.ObjectPool.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.ObjectPool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Genbox.WolframAlpha/3.0.0-alpha3": {
+      "sha512": "HxQFqJZWmBKKK3YPXclBr0rQhje2GCuPyNmzFdQsUCWYxNI32ZDKliBs0wCJp95ASrElORcJHUeDqREeaWSRXA==",
+      "type": "package",
+      "path": "genbox.wolframalpha/3.0.0-alpha3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "genbox.wolframalpha.3.0.0-alpha3.nupkg.sha512",
+        "genbox.wolframalpha.nuspec",
+        "lib/netstandard2.0/Genbox.WolframAlpha.dll",
+        "lib/netstandard2.0/Genbox.WolframAlpha.xml"
+      ]
+    },
+    "Microsoft.Extensions.Logging.Abstractions/3.1.5": {
+      "sha512": "ZvwowjRSWXewdPI+whPFXgwF4Qme6Q9KV9SCPEITSGiqHLArct7q5hTBtTzj3GPsVLjTqehvTg6Bd/EQk9JS0A==",
+      "type": "package",
+      "path": "microsoft.extensions.logging.abstractions/3.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
+        "microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
+        "microsoft.extensions.logging.abstractions.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.ObjectPool/3.1.5": {
+      "sha512": "AiBGAocvUmosM5Vv4KH9hLT2Df3EmvqJPK6owdDXi5nw/IeGa/8oqxHKZVy2oBMBifT3qSK5kOCjNqDP06h9+A==",
+      "type": "package",
+      "path": "microsoft.extensions.objectpool/3.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.0/Microsoft.Extensions.ObjectPool.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.ObjectPool.xml",
+        "microsoft.extensions.objectpool.3.1.5.nupkg.sha512",
+        "microsoft.extensions.objectpool.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Genbox.WolframAlpha >= 3.0.0-alpha3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alper\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alper\\Desktop\\alpiz\\itu\\blg252e\\WolframCalculator\\WolframCalc\\WolframCalc.csproj",
+      "projectName": "WolframCalc",
+      "projectPath": "C:\\Users\\alper\\Desktop\\alpiz\\itu\\blg252e\\WolframCalculator\\WolframCalc\\WolframCalc.csproj",
+      "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alper\\Desktop\\alpiz\\itu\\blg252e\\WolframCalculator\\WolframCalc\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Genbox.WolframAlpha": {
+            "target": "Package",
+            "version": "[3.0.0-alpha3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\alper\\.dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

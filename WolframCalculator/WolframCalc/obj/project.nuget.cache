@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZU5bUC09CEd1vWvrVssr4P/5QfB7aQnhF8ZDmVMCC1rudTbG/bq1ICgG9mOH8fzYtNfOiOQWeCXnRWlz9lyHBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alper\\Desktop\\alpiz\\itu\\blg252e\\WolframCalculator\\WolframCalc\\WolframCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alper\\.nuget\\packages\\genbox.wolframalpha\\3.0.0-alpha3\\genbox.wolframalpha.3.0.0-alpha3.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.5\\microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\microsoft.extensions.objectpool\\3.1.5\\microsoft.extensions.objectpool.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
